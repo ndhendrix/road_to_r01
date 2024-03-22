@@ -1,5 +1,5 @@
 # road_to_r01
-Code to accompany the Substack entry of the same name.
+Code to accompany the [Substack entry of the same name](https://open.substack.com/pub/nathanielhendrix/p/the-road-to-an-r01?r=50n3&utm_campaign=post&utm_medium=web).
 
 Briefly, I was curious to see whether early career K awards from the NIH affected your odds of getting an R01.
 
